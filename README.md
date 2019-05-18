@@ -14,6 +14,9 @@
   
 
 4.) References used to complete the assignment
+https://stackoverflow.com/questions/1735307/c-keeping-track-of-how-many-seconds-has-passed-since-start-of-program
+https://stackoverflow.com/questions/26979236/reading-integers-from-file-and-store-them-in-array-c
+https://www.geeksforgeeks.org/sorting-algorithms/
 
 5.) Instructions for running the assignment
   1.) run program and observe output
