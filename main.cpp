@@ -2,7 +2,7 @@
 #include <fstream>
 #include<string>
 #include <iostream>
-#include <ctime> //http://www.codebind.com/cpp-tutorial/cpp-program-display-current-date-time/
+#include <ctime>
 using namespace std;
 
 int main(int argc, char const *argv[])
